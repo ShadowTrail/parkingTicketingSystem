@@ -1,6 +1,6 @@
 // src/App.js
 import React from "react";
-import ParkingSystem from "./ParkingSystem";
+import ParkingSystem from "./components/ParkingSystem";
 import "./App.css";
 
 const App = () => {
@@ -12,3 +12,4 @@ const App = () => {
 };
 
 export default App;
+
